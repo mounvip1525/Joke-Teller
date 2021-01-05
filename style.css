@@ -10,12 +10,15 @@
     justify-content:center;
     align-items: center;
     flex-direction:column;
-    background:url(Thinking-robo.gif);
+    background:url(Pretty-cool.gif);
     background-size: contain;
-    background-position:45% 55%;
+    background-position:40% 45%;
     background-repeat: no-repeat;
     background-size: 500px;
     background-color: white;
+}
+.new-background{
+    background:url(Thinking-robo.gif);
 }
 #button{
     outline:none;
@@ -38,7 +41,6 @@ button:active{
 }
 button:disabled{
     cursor:default;
-    filter:brightness(55%);
 }
 @media screen and (max-width:600px){
     .container{
