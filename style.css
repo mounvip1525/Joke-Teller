@@ -17,9 +17,9 @@
     background-size: 500px;
     background-color: white;
 }
-.new-background{
-    background:url(Thinking-robo.gif);
-}
+//.new-background{
+    // background:url(Thinking-robo.gif);
+// }
 #button{
     outline:none;
     border:1px solid black;
